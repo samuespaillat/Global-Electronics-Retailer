@@ -1,4 +1,3 @@
-# Global-Electronics-Retailer
 # Global Electronics Retailer Analysis
 
 ## Project Overview
